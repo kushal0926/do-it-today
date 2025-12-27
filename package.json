@@ -1,0 +1,12 @@
+{
+  "name": "nottomorrowbuttoday",
+  "version": "1.0.0",
+  "description": "my own todo list that should be done today",
+  "license": "ISC",
+  "author": "moks",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
